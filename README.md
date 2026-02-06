@@ -12,6 +12,7 @@
   />
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api?username=filipe-golfe&show_icons=true" />
 
 ## Technologies (only the main ones)
 
