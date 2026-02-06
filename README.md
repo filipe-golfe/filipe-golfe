@@ -56,7 +56,7 @@
 <img src="assets/eslint.svg" width="40" alt="eslint" title="Eslint">
 <img src="assets/phpunit.svg" width="40" alt="phpunit" title="PhpUnit">
 <img src="assets/pest.svg" width="40" alt="pest" title="PEST">
-<!-- PEST (centralizar)/Locust -->
+<!-- Locust -->
 
 ### Package Managers
 
