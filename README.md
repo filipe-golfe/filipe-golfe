@@ -1,5 +1,18 @@
 ## Filipe Golfe
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true"
+  />
+  <img
+    align="right"
+    width="50%"
+    src="https://github-readme-stats.vercel.app/api?username=filipe-golfe&show_icons=true"
+  />
+</picture>
+
+
 ## Technologies (only the main ones)
 
 <img src="assets/aws.svg" width="40" alt="AWS" title="AWS">
