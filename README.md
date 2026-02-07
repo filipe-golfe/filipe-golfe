@@ -56,7 +56,7 @@
 <img src="assets/eslint.svg" width="40" alt="eslint" title="Eslint">
 <img src="assets/phpunit.svg" width="40" alt="phpunit" title="PhpUnit">
 <img src="assets/pest.svg" width="40" alt="pest" title="PEST">
-<!-- Locust -->
+<img src="assets/locust.svg" width="40" alt="locust" title="Locust">
 
 ### Package Managers
 
