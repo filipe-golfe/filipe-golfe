@@ -3,12 +3,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true"
+    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true&hide=stars"
   />
   <img
     align="right"
     width="50%"
-    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true"
+    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars"
   />
 </picture>
 
@@ -114,3 +114,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-golfe/filipe-golfe/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-golfe/filipe-golfe/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Contact
+
+<div>
+  <a href="https://wa.me/5549988587895" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" target="_blank">
+  </a>
+  <a href="https://instagram.com/filipegolfe" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:filipegolfee@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/filipe-golfe-769813219" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
