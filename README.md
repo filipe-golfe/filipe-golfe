@@ -20,7 +20,7 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 - 🌍 Languages: English/Portuguese (Brazil)
 - 🎂 Date of birth: 1 November 2002
 
-## 🚀 Technologies
+## 🚀 Tech Stack
 
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
