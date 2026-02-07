@@ -1,13 +1,5 @@
 ## Filipe Golfe
 
--   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog / test1 / test2 / test3
--   🧩 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm
--   🧩 Cyber security research with @chenjj
--   🧩 Ask me anything at Discussions!
--   🧩 CVEs discovered by me
--   🧩 Projects starred by me
--   🧩 863A0F9FA8127FA4
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -19,6 +11,14 @@
     src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews&rank_icon=github"
   />
 </picture>
+
+I'm a full-stack web developer with strong experience in high-throughput ERP systems, commercial automation, and electronic invoicing solutions. Experienced in working both independently and within large teams, with a focus on delivering performant, scalable, and maintainable systems using DDD, microservices, clean code, design patterns, automated tests and related best practices.
+
+- 🧩 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
+- 🧩 Currently working at Zucchetti
+- 🧩 Professionally coding since 2022
+- 🧩 Languages: English/Portuguese (Brazil)
+- 🧩 Date of birth: 1 November 2002
 
 ## Technologies
 
