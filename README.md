@@ -1,5 +1,13 @@
 ## Filipe Golfe
 
+-   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog / test1 / test2 / test3
+-   🧩 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm
+-   🧩 Cyber security research with @chenjj
+-   🧩 Ask me anything at Discussions!
+-   🧩 CVEs discovered by me
+-   🧩 Projects starred by me
+-   🧩 863A0F9FA8127FA4
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -11,14 +19,6 @@
     src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews&rank_icon=github"
   />
 </picture>
-
--   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog / test1 / test2 / test3
--   🧩 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm
--   🧩 Cyber security research with @chenjj
--   🧩 Ask me anything at Discussions!
--   🧩 CVEs discovered by me
--   🧩 Projects starred by me
--   🧩 863A0F9FA8127FA4
 
 ## Technologies
 
