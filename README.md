@@ -139,15 +139,15 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 
 <p align="center">
   <a href="https://wa.me/5549988587895" target="_blank">
-    <img src="assets/whatsapp.png" width="100"/>
+    <img src="assets/whatsapp.png" width="100" target="_blank"/>
   </a>
 	<a href="https://www.linkedin.com/in/filipe-golfe-769813219/" target="_blank">
-    <img src="assets/linkedin.png" width="100"/>
+    <img src="assets/linkedin.png" width="100" target="_blank"/>
   </a>
 	<a href="https://instagram.com/filipegolfe" target="_blank">
-    <img src="assets/instagram.png" width="100"/>
+    <img src="assets/instagram.png" width="100" target="_blank"/>
   </a>
 	<a href="mailto:filipegolfee@gmail.com" target="_blank">
-    <img src="assets/gmail.png" width="100"/>
+    <img src="assets/gmail.png" width="100" target="_blank"/>
   </a>
 </p>
