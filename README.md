@@ -14,15 +14,11 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
   />
 </picture>
 
-🎓 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
-<br/>
-🏢 Currently working at Zucchetti
-<br/>
-💻 Professionally coding since 2022
-<br/>
-🌍 Languages: English/Portuguese (Brazil)
-<br/>
-🎂 Date of birth: 1 November 2002
+- 🎓 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
+- 🏢 Currently working at Zucchetti
+- 💻 Professionally coding since 2022
+- 🌍 Languages: English/Portuguese (Brazil)
+- 🎂 Date of birth: 1 November 2002
 
 ## 🚀 Tech Stack
 
