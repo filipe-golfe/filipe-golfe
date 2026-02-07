@@ -3,12 +3,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true&hide=stars"
+    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true&hide=stars&show=reviews"
   />
   <img
     align="right"
     width="50%"
-    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars"
+    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews"
   />
 </picture>
 
