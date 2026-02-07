@@ -22,6 +22,46 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 
 ## 🚀 Technologies
 
+<div align="right" style="min-width: 300px;">
+
+  ### Package Managers
+  <p>
+    <img src="assets/npm.svg" width="40" title="NPM"/>
+    <img src="assets/composer.svg" width="40" title="Composer"/>
+    <img src="assets/pnpm.svg" width="40" title="PNPM"/>
+    <img src="assets/yarn.svg" width="40" title="Yarn"/>
+  </p>
+
+  ### Messaging & Observability
+  <p>
+    <img src="assets/rabbitmq.svg" width="40" title="RabbitMQ"/>
+    <img src="assets/sentry.svg" width="40" title="Sentry"/>
+    <img src="assets/new-relic.svg" width="40" title="New Relic"/>
+  </p>
+
+  ### Operational Systems
+  <p>
+    <img src="assets/ubuntu.svg" width="40" title="Ubuntu"/>
+    <img src="assets/windows.svg" width="40" title="Windows"/>
+  </p>
+
+  ### Developer Tools
+  <p>
+    <img src="assets/git.svg" width="40" title="Git"/>
+    <img src="assets/github.svg" width="40" title="GitHub"/>
+    <img src="assets/insomnia.svg" width="40" title="Insomnia"/>
+    <img src="assets/dbeaver.svg" width="40" title="DBeaver"/>
+    <img src="assets/visual-studio.svg" width="40" title="Visual Studio"/>
+  </p>
+
+  ### Management & Documentation
+  <p>
+    <img src="assets/confluence.svg" width="40" title="Confluence"/>
+    <img src="assets/jira.svg" width="40" title="Jira"/>
+  </p>
+
+</div>
+
 <div style="min-width: 300px;">
     
   ### Programming Languages
@@ -79,46 +119,6 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
     <img src="assets/phpunit.svg" width="40" title="PhpUnit"/>
     <img src="assets/pest.svg" width="40" title="PEST"/>
     <img src="assets/locust.svg" width="40" title="Locust"/>
-  </p>
-
-</div>
-
-<div align="right" style="min-width: 300px;">
-
-  ### Package Managers
-  <p>
-    <img src="assets/npm.svg" width="40" title="NPM"/>
-    <img src="assets/composer.svg" width="40" title="Composer"/>
-    <img src="assets/pnpm.svg" width="40" title="PNPM"/>
-    <img src="assets/yarn.svg" width="40" title="Yarn"/>
-  </p>
-
-  ### Messaging & Observability
-  <p>
-    <img src="assets/rabbitmq.svg" width="40" title="RabbitMQ"/>
-    <img src="assets/sentry.svg" width="40" title="Sentry"/>
-    <img src="assets/new-relic.svg" width="40" title="New Relic"/>
-  </p>
-
-  ### Operational Systems
-  <p>
-    <img src="assets/ubuntu.svg" width="40" title="Ubuntu"/>
-    <img src="assets/windows.svg" width="40" title="Windows"/>
-  </p>
-
-  ### Developer Tools
-  <p>
-    <img src="assets/git.svg" width="40" title="Git"/>
-    <img src="assets/github.svg" width="40" title="GitHub"/>
-    <img src="assets/insomnia.svg" width="40" title="Insomnia"/>
-    <img src="assets/dbeaver.svg" width="40" title="DBeaver"/>
-    <img src="assets/visual-studio.svg" width="40" title="Visual Studio"/>
-  </p>
-
-  ### Management & Documentation
-  <p>
-    <img src="assets/confluence.svg" width="40" title="Confluence"/>
-    <img src="assets/jira.svg" width="40" title="Jira"/>
   </p>
 
 </div>
