@@ -12,7 +12,7 @@
   />
 </picture>
 
--   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+-   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog / test1 / test2 / test3
 -   🧩 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm
 -   🧩 Cyber security research with @chenjj
 -   🧩 Ask me anything at Discussions!
