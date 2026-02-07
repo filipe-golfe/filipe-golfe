@@ -12,6 +12,14 @@
   />
 </picture>
 
+-   🧩 Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+-   🧩 Arch Linux / i3wm / neovim / nnn / mpv / Firefox / yadm
+-   🧩 Cyber security research with @chenjj
+-   🧩 Ask me anything at Discussions!
+-   🧩 CVEs discovered by me
+-   🧩 Projects starred by me
+-   🧩 863A0F9FA8127FA4
+
 ## Technologies
 
 ### Programming Languages
