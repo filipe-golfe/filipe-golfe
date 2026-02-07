@@ -20,54 +20,9 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 - 🌍 Languages: English/Portuguese (Brazil)
 - 🎂 Date of birth: 1 November 2002
 
-## Tecnologies 
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%" style="border: none !important; padding-right: 20px;">
-
-### Programming Languages
-<p>
-  <img src="assets/javascript.svg" width="40"/>
-  <img src="assets/typescript.svg" width="40"/>
-  <img src="assets/php.svg" width="40"/>
-  <img src="assets/python.svg" width="40"/>
-  <img src="assets/bash.svg" width="40"/>
-</p>
-
-### Frontend
-<p>
-  <img src="assets/html5.svg" width="40"/>
-  <img src="assets/css3.svg" width="40"/>
-  <img src="assets/sass.svg" width="40"/>
-  <img src="assets/bootstrap.svg" width="40"/>
-  <img src="assets/vitejs.svg" width="40"/>
-  <img src="assets/angularjs.svg" width="40"/>
-  <img src="assets/vuejs.svg" width="40"/>
-</p>
-
-</td>
-<td valign="top" width="50%" style="border: none !important; padding-left: 20px;">
-
-### Package Managers
-<p>
-  <img src="assets/npm.svg" width="40"/>
-  <img src="assets/composer.svg" width="40"/>
-  <img src="assets/pnpm.svg" width="40"/>
-  <img src="assets/yarn.svg" width="40"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-
 ## 🚀 Technologies
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 300px;">
+<div style="min-width: 300px;">
     
   ### Programming Languages
   <p>
@@ -126,9 +81,9 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
     <img src="assets/locust.svg" width="40" title="Locust"/>
   </p>
 
-  </div>
+</div>
 
-  <div style="flex: 1; min-width: 300px;">
+<div align="right" style="min-width: 300px;">
 
   ### Package Managers
   <p>
@@ -165,8 +120,6 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
     <img src="assets/confluence.svg" width="40" title="Confluence"/>
     <img src="assets/jira.svg" width="40" title="Jira"/>
   </p>
-
-  </div>
 
 </div>
 
