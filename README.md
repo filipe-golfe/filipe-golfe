@@ -14,13 +14,13 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
   />
 </picture>
 
-- 🧩 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
-- 🧩 Currently working at Zucchetti
-- 🧩 Professionally coding since 2022
-- 🧩 Languages: English/Portuguese (Brazil)
-- 🧩 Date of birth: 1 November 2002
+- 🎓 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
+- 🏢 Currently working at Zucchetti
+- 💻 Professionally coding since 2022
+- 🌍 Languages: English/Portuguese (Brazil)
+- 🎂 Date of birth: 1 November 2002
 
-## Technologies
+## 🚀 Technologies
 
 ### Programming Languages
 <p>
@@ -123,7 +123,7 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-golfe/filipe-golfe/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Contact
+## ☎️ Contact
 
 <div>
   <a href="https://wa.me/5549988587895" target="_blank">
