@@ -22,7 +22,7 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 
 ## 🚀 Technologies
 
-<div align="right" style="min-width: 300px;">
+<div align="right" style="min-width: 300px; position: absolute">
 
   ### Package Managers
   <p>
