@@ -3,12 +3,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true&hide=stars&show=reviews"
+    srcset="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&theme=dark&show_icons=true&hide=stars&show=reviews&rank_icon=github"
   />
   <img
     align="right"
     width="50%"
-    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews"
+    src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews&rank_icon=github"
   />
 </picture>
 
@@ -107,7 +107,7 @@
   <img src="assets/jira.svg" width="40" title="Jira"/>
 </p>
 
-## 🧩 Commits
+## 🧩 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipe-golfe/filipe-golfe/output/github-contribution-grid-snake-dark.svg">
