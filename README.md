@@ -20,9 +20,11 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 - 🌍 Languages: English/Portuguese (Brazil)
 - 🎂 Date of birth: 1 November 2002
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+## Tecnologies 
+
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none !important; padding-right: 20px;">
 
 ### Programming Languages
 <p>
@@ -45,7 +47,7 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none !important; padding-left: 20px;">
 
 ### Package Managers
 <p>
@@ -58,6 +60,7 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 </td>
 </tr>
 </table>
+
 
 
 ## 🚀 Technologies
