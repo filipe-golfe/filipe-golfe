@@ -1,5 +1,7 @@
 ## Filipe Golfe
 
+I'm a full-stack web developer with strong experience in high-throughput ERP systems, commercial automation, and electronic invoicing solutions. Experienced in working both independently and within large teams, with a focus on delivering performant, scalable, and maintainable systems using DDD, microservices, clean code, design patterns, automated tests and related best practices.
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -11,8 +13,6 @@
     src="https://github-readme-stats-tau-eight-22.vercel.app/api?username=filipe-golfe&show_icons=true&hide=stars&show=reviews&rank_icon=github"
   />
 </picture>
-
-I'm a full-stack web developer with strong experience in high-throughput ERP systems, commercial automation, and electronic invoicing solutions. Experienced in working both independently and within large teams, with a focus on delivering performant, scalable, and maintainable systems using DDD, microservices, clean code, design patterns, automated tests and related best practices.
 
 - 🧩 Bachelor’s degree in Software Engineering from Universidade do Contestado (UNC)
 - 🧩 Currently working at Zucchetti
