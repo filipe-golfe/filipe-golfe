@@ -21,111 +21,99 @@ I'm a full-stack web developer with strong experience in high-throughput ERP sys
 - 🎂 Date of birth: 1 November 2002
 
 ## 🚀 Tech Stack
-
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 300px;">
     
-  ### Programming Languages
-  <p>
-    <img src="assets/javascript.svg" width="40" title="Javascript"/>
-    <img src="assets/typescript.svg" width="40" title="Typescript"/>
-    <img src="assets/php.svg" width="40" title="PHP"/>
-    <img src="assets/python.svg" width="40" title="Python"/>
-    <img src="assets/bash.svg" width="40" title="Bash"/>
-  </p>
+### Programming Languages
+<p>
+  <img src="assets/javascript.svg" title="Javascript"/>
+  <img src="assets/typescript.svg" title="Typescript"/>
+  <img src="assets/php.svg" title="PHP"/>
+  <img src="assets/python.svg" title="Python"/>
+  <img src="assets/bash.svg" title="Bash"/>
+</p>
 
-  ### Frontend
-  <p>
-    <img src="assets/html5.svg" width="40" title="HTML5"/>
-    <img src="assets/css3.svg" width="40" title="CSS3"/>
-    <img src="assets/sass.svg" width="40" title="SASS"/>
-    <img src="assets/bootstrap.svg" width="40" title="Bootstrap"/>
-    <img src="assets/vitejs.svg" width="40" title="ViteJs"/>
-    <img src="assets/angularjs.svg" width="40" title="AngularJs"/>
-    <img src="assets/vuejs.svg" width="40" title="VueJs"/>
-  </p>
+### Frontend
+<p>
+  <img src="assets/html5.svg" title="HTML5"/>
+  <img src="assets/css3.svg" title="CSS3"/>
+  <img src="assets/sass.svg" title="SASS"/>
+  <img src="assets/bootstrap.svg" title="Bootstrap"/>
+  <img src="assets/vitejs.svg" title="ViteJs"/>
+  <img src="assets/angularjs.svg" title="AngularJs"/>
+  <img src="assets/vuejs.svg" title="VueJs"/>
+</p>
 
-  ### Frameworks & Libs
-  <p>
-    <img src="assets/nodejs.svg" width="40" title="NodeJs"/>
-    <img src="assets/express.svg" width="40" title="Express"/>
-    <img src="assets/laravel.svg" width="40" title="Laravel"/>
-    <img src="assets/laminas.svg" width="40" title="Laminas"/>
-    <img src="assets/socketio.svg" width="40" title="Socket.IO"/>
-    <img src="assets/axios.svg" width="40" title="Axios"/>
-  </p>
+### Frameworks & Libs
+<p>
+  <img src="assets/nodejs.svg" title="NodeJs"/>
+  <img src="assets/express.svg" title="Express"/>
+  <img src="assets/laravel.svg" title="Laravel"/>
+  <img src="assets/laminas.svg" title="Laminas"/>
+  <img src="assets/socketio.svg" title="Socket.IO"/>
+  <img src="assets/axios.svg" title="Axios"/>
+</p>
 
-  ### Databases & ORMs
-  <p>
-    <img src="assets/mysql.svg" width="40" title="MySQL"/>
-    <img src="assets/postgresql.svg" width="40" title="PostgreSQL"/>
-    <img src="assets/sql-server.svg" width="40" title="SQL Server"/>
-    <img src="assets/doctrine.svg" width="40" title="Doctrine"/>
-    <img src="assets/laravel.svg" width="40" title="Eloquent"/>
-    <img src="assets/knexjs.svg" width="40" title="KnexJs"/>
-  </p>
+### Databases & ORMs
+<p>
+  <img src="assets/mysql.svg" title="MySQL"/>
+  <img src="assets/postgresql.svg" title="PostgreSQL"/>
+  <img src="assets/sql-server.svg" title="SQL Server"/>
+  <img src="assets/doctrine.svg" title="Doctrine"/>
+  <img src="assets/eloquent.svg" title="Eloquent"/>
+  <img src="assets/knexjs.svg" title="KnexJs"/>
+</p>
 
-  ### DevOps
-  <p>
-    <img src="assets/docker.svg" width="40" title="Docker"/>
-    <img src="assets/kubernetes.svg" width="40" title="Kubernetes"/>
-    <img src="assets/aws.svg" width="40" title="AWS"/>
-    <img src="assets/github-actions.svg" width="40" title="GitHub Actions"/>
-  </p>
+### DevOps
+<p>
+  <img src="assets/docker.svg" title="Docker"/>
+  <img src="assets/kubernetes.svg" title="Kubernetes"/>
+  <img src="assets/aws.svg" title="AWS"/>
+  <img src="assets/github-actions.svg" title="GitHub Actions"/>
+</p>
 
-  ### Tests & Quality Code
-  <p>
-    <img src="assets/jest.svg" width="40" title="Jest"/>
-    <img src="assets/eslint.svg" width="40" title="Eslint"/>
-    <img src="assets/phpunit.svg" width="40" title="PhpUnit"/>
-    <img src="assets/pest.svg" width="40" title="PEST"/>
-    <img src="assets/locust.svg" width="40" title="Locust"/>
-  </p>
+### Tests & Quality Code
+<p>
+  <img src="assets/jest.svg" title="Jest"/>
+  <img src="assets/eslint.svg" title="Eslint"/>
+  <img src="assets/phpunit.svg" title="PhpUnit"/>
+  <img src="assets/pest.svg" title="PEST"/>
+  <img src="assets/locust.svg" title="Locust"/>
+</p>
 
-  </div>
+### Package Managers
+<p>
+  <img src="assets/npm.svg" title="NPM"/>
+  <img src="assets/composer.svg" title="Composer"/>
+  <img src="assets/pnpm.svg" title="PNPM"/>
+  <img src="assets/yarn.svg" title="Yarn"/>
+</p>
 
-  <div style="flex: 1; min-width: 300px;">
+### Messaging & Observability
+<p>
+  <img src="assets/rabbitmq.svg" title="RabbitMQ"/>
+  <img src="assets/sentry.svg" title="Sentry"/>
+  <img src="assets/new-relic.svg" title="New Relic"/>
+</p>
 
-  ### Package Managers
-  <p>
-    <img src="assets/npm.svg" width="40" title="NPM"/>
-    <img src="assets/composer.svg" width="40" title="Composer"/>
-    <img src="assets/pnpm.svg" width="40" title="PNPM"/>
-    <img src="assets/yarn.svg" width="40" title="Yarn"/>
-  </p>
+### Operational Systems
+<p>
+  <img src="assets/ubuntu.svg" title="Ubuntu"/>
+  <img src="assets/windows.svg" title="Windows"/>
+</p>
 
-  ### Messaging & Observability
-  <p>
-    <img src="assets/rabbitmq.svg" width="40" title="RabbitMQ"/>
-    <img src="assets/sentry.svg" width="40" title="Sentry"/>
-    <img src="assets/new-relic.svg" width="40" title="New Relic"/>
-  </p>
+### Developer Tools
+<p>
+  <img src="assets/git.svg" title="Git"/>
+  <img src="assets/github.svg" title="GitHub"/>
+  <img src="assets/insomnia.svg" title="Insomnia"/>
+  <img src="assets/dbeaver.svg" title="DBeaver"/>
+  <img src="assets/visual-studio.svg" title="Visual Studio"/>
+</p>
 
-  ### Operational Systems
-  <p>
-    <img src="assets/ubuntu.svg" width="40" title="Ubuntu"/>
-    <img src="assets/windows.svg" width="40" title="Windows"/>
-  </p>
-
-  ### Developer Tools
-  <p>
-    <img src="assets/git.svg" width="40" title="Git"/>
-    <img src="assets/github.svg" width="40" title="GitHub"/>
-    <img src="assets/insomnia.svg" width="40" title="Insomnia"/>
-    <img src="assets/dbeaver.svg" width="40" title="DBeaver"/>
-    <img src="assets/visual-studio.svg" width="40" title="Visual Studio"/>
-  </p>
-
-  ### Management & Documentation
-  <p>
-    <img src="assets/confluence.svg" width="40" title="Confluence"/>
-    <img src="assets/jira.svg" width="40" title="Jira"/>
-  </p>
-
-  </div>
-
-</div>
+### Management & Documentation
+<p>
+  <img src="assets/confluence.svg" title="Confluence"/>
+  <img src="assets/jira.svg" title="Jira"/>
+</p>
 
 ## 🧩 Contributions
 
